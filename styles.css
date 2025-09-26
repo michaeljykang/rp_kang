@@ -10,15 +10,15 @@
 }
 
 .authors{
-    background-color: #dbe3e7;
+    background-color: #e7e3db;
 }
 
 .body{
-    background-color: rgb(90, 92, 92);
+    background-color: rgb(92, 92, 90);
 }
 
 .footer{
-    background-color: #023E8A;
+    background-color: #547698;
 }
 
 .icon-white{            /* Arrow icon at bottom of page */
@@ -26,7 +26,7 @@
 }
 
 .nb-background-color{   /* navbar background color */
-    background-color: #023E8A;
+    background-color: #547698;
 }
 
 .nbMenuItem{               /* navbar link text properties */
@@ -36,7 +36,7 @@
 }
 
 .overview{
-    background-color: #dbe3e7;
+    background-color: #e7e3db;
 }
 
 .ovPadLeft{
@@ -48,12 +48,17 @@
 }
 
 .procedure{
-    background-color: #dbe3e7;
+    background-color: #e7e3db;
     padding: 1px;
 }
 
 .showcase{
-    background-color: #8fa3ab; /*#0096c7*/
+    background-color: #aba38f; /*#0096c7*/
+}
+
+.procedure-image{
+    width: 150px;
+    height: auto;
 }
 
 /* ----------------- ID CSS ----------------- */
