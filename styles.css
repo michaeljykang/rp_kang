@@ -17,6 +17,25 @@
     background-color: rgb(92, 92, 90);
 }
 
+.charts{
+    background-color: #e7e3db;
+    
+}
+
+#chart-wrapper{
+    margin: auto;
+    padding: 10px;
+    /* If nesting a chart's container within another container, remove the 
+       height and width values.  The outer container will control the dimensions */ 
+    height: 40vh; 
+    width:  80vw;
+    min-height: 400px;
+    background-color: whitesmoke !important;
+    justify-content: center;
+    align-items: center;  
+}
+
+
 .footer{
     background-color: #547698;
 }
@@ -88,3 +107,9 @@
     /*transform-origin: bottom left;*/
 }
 
+/* @media (prefers-reduced-motion: no-preference) {
+    .procedure-image{
+        animation: spin infinite 100ms linear;
+    }
+} */
+ 
